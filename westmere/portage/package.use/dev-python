@@ -1,0 +1,4 @@
+*/* PYTHON_TARGETS: pypy3
+
+dev-python/pypy sqlite
+dev-python/pypy3 sqlite

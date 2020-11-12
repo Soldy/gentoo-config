@@ -1,0 +1,2 @@
+sys-apps/dbus X
+sys-apps/openrc ncurses netifrc pam split-usr unicode bash

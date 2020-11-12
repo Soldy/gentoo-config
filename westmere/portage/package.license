@@ -1,0 +1,21 @@
+
+
+app-arch/unrar unRAR
+
+# required by x11-base/xorg-x11-7.4-r3::gentoo[fonts]
+# required by xorg-x11 (argument)
+
+
+dev-util/intel-ocl-sdk Intel-SDP
+games-misc/opengfx CC-Sampling-Plus-1.0 
+games-misc/opensfx CC-Sampling-Plus-1.0 
+games-misc/opensfx CC-Sampling-Plus-1.0 
+media-fonts/corefonts MSttfEULA
+media-fonts/font-bh-ttf bh-luxi
+media-fonts/font-bh-type1 bh-luxi
+
+media-libs/faac MPEG-4
+
+sys-kernel/linux-firmware linux-fw-redistributable
+
+

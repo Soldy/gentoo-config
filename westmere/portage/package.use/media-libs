@@ -1,0 +1,33 @@
+
+media-libs/audiofile flac
+
+
+media-libs/faac MPEG-4
+media-libs/gd jpeg truetype png fontconfig
+media-libs/gegl cairo
+
+media-libs/harfbuzz icu
+
+media-libs/libcaca ncurses cxx opengl truetype
+
+media-libs/libvpx postproc
+
+media-libs/libpng apng
+
+media-libs/libglvnd X
+media-libs/libsdl X joystick sound video aalib alsa custom-cflags libcaca opengl xv
+
+media-libs/libsdl2 joystick opengl sound threads video alsa X gles2 -dbus -fcitx4 -haptic -ibus -jack -kms -libsamplerate -nas -oss -pulseaudio -static-libs -tslib -udev -vulkan -wayland -xinerama -xscreensaver
+
+media-libs/libwebp jpeg png gif opengl tiff
+
+media-libs/mesa vaapi wayland
+
+media-libs/openal alsa
+
+media-libs/portaudio alsa
+
+media-libs/sdl-image png gif jpeg tiff webp
+
+media-libs/sdl-mixer vorbis
+

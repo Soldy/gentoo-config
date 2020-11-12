@@ -1,0 +1,11 @@
+
+
+#app-accessibility/at-spi2-core
+
+sys-apps/dbus
+
+sys-devel/clang
+
+gnome-extra/polkit-gnome
+lxde-base/lxsession
+

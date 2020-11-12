@@ -1,0 +1,5 @@
+
+media-gfx/gimp aalib alsa doc jpeg2k mng openexr postscript vector-icons webp wmf xpm
+media-gfx/imagemagick bzip2 cxx openmp zlib corefonts djvu fftw fontconfig fpx graphviz hdri jbig jpeg jpeg2k lcms lqr lzma png postscript q32 q8 raw svg tiff truetype webp wmf xml
+media-gfx/sane-backends ipv6 usb snmp -gphoto2 -systemd -threads -v4l -xinetd -zeroconf
+media-gfx/xsane nls gimp jpeg ocr png tiff

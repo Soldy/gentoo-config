@@ -1,0 +1,3 @@
+media-sound/audacity alsa doc ffmpeg flac ladspa lv2 id3tag mad ogg portmixer twolame vamp vorbis vst
+media-sound/sox openmp alsa encode flac id3tag mad ogg opus sndfile twolame wavpack
+
