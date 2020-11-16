@@ -1,0 +1,5 @@
+
+media-video/ffmpeg alsa bzip2 dav1d encode fontconfig gnutls gpl gsm iconv jpeg2k libass libcaca libdrm lzma mp3 network -opengl opus postproc sdl speex svg theora threads truetype -vaapi -vdpau x264 x265 xvid zlib X codec2 doc libxml2 srt twolame vorbis wavpack
+media-video/mplayer a52 aalib doc dts faac faad fbcon ggi gsm jpeg libcaca live lzo mad md5sum mp3 opengl png pnm rar rtc rtmp sdl speex theora toolame vorbis xvid x264 yuv4mpeg
+        
+
