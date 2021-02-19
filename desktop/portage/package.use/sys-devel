@@ -1,4 +1,5 @@
 
+sys-devel/gcc cxx d doc fortran go nls nptl objc openmp pch pie sanitize ssp vtv
+sys-devel/clang -static-analyzer -llvm_targets_AMDGPU -llvm_targets_BPF -llvm_targets_Hexagon -llvm_targets_NVPTX
 
-sys-devel/clang -static-analyzer -llvm_targets_AMDGPU -llvm_targets_BPF -llvm_targets_NVPTX
-
+sys-devel/llvm -llvm_targets_Hexagon -llvm_targets_Lanai -llvm_targets_Mips -llvm_targets_MSP430 -llvm_targets_PowerPC -llvm_targets_RISCV -llvm_targets_Sparc -llvm_targets_SystemZ -llvm_targets_XCore -llvm_targets_VE

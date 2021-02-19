@@ -1,4 +1,4 @@
 
-games-action/minetest -pulseaudio -leveldb -postgres
+games-action/minetest -pulseaudio -leveldb postgres
 
 

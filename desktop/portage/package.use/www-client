@@ -2,6 +2,6 @@
 
 www-client/links -X 
 
-www-client/chromium hangouts js-type-check proprietary-codecs suid system-ffmpeg system-icu tcmallo custom-cflags 
+www-client/chromium -hangouts i-js-type-check -proprietary-codecs -suid system-ffmpeg system-icu -tcmalloc -custom-cflags 
 www-client/firefox custom-cflags custom-optimization -gmp-autoupdate hwaccel -screenshot
 www-client/firefox-bin -pulseaudio geckodriver

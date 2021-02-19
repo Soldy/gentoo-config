@@ -16,20 +16,23 @@ media-libs/libpng apng
 
 media-libs/libglvnd X
 media-libs/libsdl X joystick sound video aalib alsa custom-cflags libcaca opengl xv
+
 media-libs/libsdl2 joystick opengl sound threads video alsa X gles2 -dbus -fcitx4 -haptic -ibus -jack -kms -libsamplerate -nas -oss -pulseaudio -static-libs -tslib -udev -vulkan -wayland -xinerama -xscreensaver
 
-media-libs/sdl2-mixer midi timidity
+media-libs/libsndfile alsa
 
 media-libs/libwebp jpeg png gif opengl tiff
 
-media-libs/mesa vaapi wayland
+media-libs/mesa vaapi wayland opengl X
 
 media-libs/openal alsa
 
 media-libs/portaudio alsa
 
+media-libs/sdl2-mixer midi timidity
+
 media-libs/sdl-image png gif jpeg tiff webp
 
 media-libs/sdl-mixer vorbis
 
-media-libs/sdl-sound vorbis mikmod
+media-libs/sdl-sound flac mikmod modplug mp3 mpeg speex vorbis
